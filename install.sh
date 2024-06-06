@@ -1,3 +1,4 @@
+# clone repo to ~/.local/share/omakub
 # Be fancy
 source ~/.local/share/omakub/ascii.sh
 
