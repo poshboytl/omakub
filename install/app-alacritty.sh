@@ -1,5 +1,5 @@
-sudo add-apt-repository ppa:aslatter/ppa -y
-sudo apt install -y alacritty
+sudo snap install alacritty --classic
+
 mkdir -p ~/.config/alacritty
 cp ~/.local/share/omakub/configs/alacritty.toml ~/.config/alacritty/alacritty.toml
 cp ~/.local/share/omakub/configs/alacritty/theme.toml ~/.config/alacritty/theme.toml
