@@ -1,2 +1,3 @@
-theme "tokyo-night"
+theme "nord"
 default_layout "compact"
+copy_command "wl-copy"
