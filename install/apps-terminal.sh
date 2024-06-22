@@ -4,4 +4,4 @@ echo "deb [signed-by=/etc/apt/keyrings/gierens.gpg] http://deb.gierens.de stable
 sudo chmod 644 /etc/apt/keyrings/gierens.gpg /etc/apt/sources.list.d/gierens.list
 sudo apt update
 
-sudo apt install -y fzf ripgrep bat eza zoxide plocate btop apache2-utils
+sudo apt install -y fzf ripgrep bat eza zoxide plocate btop apache2-utils fd-find

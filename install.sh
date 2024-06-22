@@ -1,7 +1,3 @@
-# clone repo to ~/.local/share/omakub
-# Be fancy
-source ~/.local/share/omakub/ascii.sh
-
 # Exit immediately if a command exits with a non-zero status
 set -e
 
